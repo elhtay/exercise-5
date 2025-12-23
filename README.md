@@ -23,3 +23,11 @@ $ python sudoku.py test.yaml
 $ ls
 input-0.npy  input-1.npy  output-0.npy  output-1.npy  reference-0.npy  sudoku.py  test.yaml
 ```
+
+## Running Tests
+
+Run all tests:
+
+```bash
+python test_runner.py
+```
